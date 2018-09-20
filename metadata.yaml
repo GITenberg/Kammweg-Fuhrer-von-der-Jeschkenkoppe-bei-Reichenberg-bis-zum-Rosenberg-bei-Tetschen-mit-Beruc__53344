@@ -1,0 +1,28 @@
+_repo: Kammweg-Fuhrer-von-der-Jeschkenkoppe-bei-Reichenberg-bis-zum-Rosenberg-bei-Tetschen-mit-Beruc__53344
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hantschel, Franz
+    birthdate: 1844
+    deathdate: 1940
+    gutenberg_agent_id: '47329'
+    url: http://www.gutenberg.org/2009/agents/47329
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2016-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53344'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bohemia (Czech Republic) -- Guidebooks'
+- !lcc 'DB'
+- GITenberg
+title: 'Kammweg-Führer von der Jeschkenkoppe bei Reichenberg bis zum Rosenberg bei
+  Tetschen
+
+  mit Berücksichtigung der anschliessenden Kammwege'
+url: http://www.gutenberg.org/ebooks/53344
