@@ -1,5 +1,8 @@
 _repo: Kammweg-Fuhrer-von-der-Jeschkenkoppe-bei-Reichenberg-bis-zum-Rosenberg-bei-Tetschen-mit-Beruc__53344
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53344-h/images/cover.jpg
 creator:
   author:
     agent_name: Hantschel, Franz
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47329'
     url: http://www.gutenberg.org/2009/agents/47329
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53344#Kammweg-Fuhrer-von-der-Jeschkenkoppe-bei-Reichenberg-bis-zum-Rosenberg-bei-Tetschen-mit-Beruc_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2016-10-22'
 gutenberg_type: Text
